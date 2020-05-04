@@ -1,0 +1,12 @@
+{
+  "id": "simplenote",
+  "name": "Simplenote",
+  "version": "1.0.0",
+  "description": "Simplenote",
+  "main": "index.js",
+  "author": "Richard Wålander <richard.walander@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.simplenote.com/"
+  }
+}
